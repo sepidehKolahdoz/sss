@@ -1,4 +1,4 @@
-
+gitk HEAD..FETCH_HEAD
 teeest 12
 it is the first change that i made 
 test for my project
