@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 gitk HEAD..FETCH_HEAD
+=======
+
+>>>>>>> c90f6bc9e50a7c1c8150721460d3fa07145aebbc
 teeest 12
 it is the first change that i made 
 test for my project
